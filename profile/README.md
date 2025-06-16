@@ -1,3 +1,5 @@
-# **MEDIKO** : 외국인 대상 의료 진단 지원 AI 서비스
-**Graduation project to develop a mobile android app w. AI 
-for foreigners living in Korea to help them use Korean medical services.**
+![image](https://github.com/user-attachments/assets/12671314-63e7-49c2-983e-c5b1bafb8841)
+![image](https://github.com/user-attachments/assets/773394dc-3ade-4a3b-b683-4c739efe10a6)
+![image](https://github.com/user-attachments/assets/61f10f5a-a60a-4252-8e7d-51addf291ed1)
+![image](https://github.com/user-attachments/assets/e4caea12-1025-4957-8ba6-bc954f600b22)
+![image](https://github.com/user-attachments/assets/9f4cc192-f039-43fc-937e-c93c529e5dc4)
